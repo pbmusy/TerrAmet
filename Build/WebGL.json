@@ -14,7 +14,3 @@
 "multithreading": false,
 "unityVersion": "2019.2.15f1"
 }
- "hosting": {
-     "public": "public",
-     "trailingSlash": false
-   }
